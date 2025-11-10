@@ -10,14 +10,14 @@ Click the link below to interact with the deployed dashboard and explore the cor
 
 **[https://lukesegault.shinyapps.io/Trade_Subsidies_Server/]**
 
-### Visual Confirmation: Global Correlation (2023)
+### Visual Confirmation: Global Correlation (2017-2023)
 ![Subsidy Count vs Export Share Growth Scatter Plot](image.png)
 *Figure 1: The visual clustering of data points around the horizontal axis confirms the **null relationship** between structural subsidy intensity and subsequent export growth.*
 ---
 
 ### Key Finding & Policy Conclusion
 
-We tested the relationship between the **Average Subsidy Count (2018–2023)** and **Export Share Growth** for G20 industrial sectors.
+We tested the relationship between the **Average Subsidy Count (2017–2023)** and **Export Share Growth** for G20 industrial sectors.
 
 | Metric | Result | Interpretation |
 | :--- | :--- | :--- |
