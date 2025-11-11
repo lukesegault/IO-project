@@ -27,7 +27,13 @@ We tested the relationship between the **Average Subsidy Count (2018–2023)** a
 
 * **Trade Outcome:** CEPII BACI bilateral trade flows (HS 6-digit, 2017–2023, $\approx 77$ million rows).
 
-#### Advanced R Skills & Data Handling
+### Conclusion
+
+Based on empirical findings, the lack of correlation ($r \approx -0.017$) between the average count of national subsidy programs and export share growth suggests a significant regulatory disconnect in the global trading system. Our project observed that while economies like China maintain a vast number of subsidy programs, their sector-level export growth often remained volatile and failed to show a consistent correlation, mirroring the performance of countries like Australia or Mexico, which report far fewer measures. This implies that the true distortionary mechanisms are likely driven not by the mere frequency of policies, but by factors external to simple program counting, primarily the opaque financial magnitude of capital commitment or the specificity of legal design. As a result, multilateral monitoring efforts may be inefficiently directed toward tracking thousands of small, non-actionable measures rather than focusing resources on securing transparency regarding high-magnitude financial transfers—a key data gap that needs to be addressed for the effective enforcement of fair competition rules.
+
+The primary limitation of this study is its reliance on program count rather than monetary value due to the high opacity of global subsidy reporting (in coherence with public, available data). Therefore, the essential next step for policy analysis is to secure and analyze data on the financial magnitude of these interventions to identify the economic drivers of trade friction.
+
+#### Data Handling
 
 * **Big Data Processing:** Employed **`data.table`** to manage and aggregate the large-scale trade panel data efficiently
 * **Classification Bridging:** Custom logic was developed in R to bridge the product data (HS codes) with the industrial policy data (ISIC Rev 4 codes) based on the concordance methodology.
