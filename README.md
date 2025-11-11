@@ -21,10 +21,6 @@ We tested the relationship between the **Average Subsidy Count (2018–2023)** a
 | **Conclusion** | The concentration of state interventions, when measured by *program count*, is **not a statistically reliable factor** for short-term trade distortion. | | 
 | **Strategic Implication** | This null correlation highlights a fundamental **regulatory disconnect** in the global trading system. Trade friction observed at organizations like the **WTO** is likely driven by factors invisible to simple program-counting metrics—such as the **political commitment of capital (financial magnitude)** or non-transparent **local content requirements**. | |
 
-### Project Methodology and Technical Rigor
-
-This study demonstrates the ability to execute a complex econometric pipeline and resolve significant data integration challenges on limited resources.
-
 #### Data Fusion and Synthesis
 
 * **Intervention Data:** World Bank *Unfair Advantage* and *Green Subsidies Database* (Policy Measures). These measures align with the WTO definition, encompassing financial transfers, tax exemptions, and government actions that confer benefits to specific enterprises or industries.
@@ -33,8 +29,7 @@ This study demonstrates the ability to execute a complex econometric pipeline an
 
 #### Advanced R Skills & Data Handling
 
-* **Big Data Processing:** Employed **`data.table`** to manage and aggregate the large-scale trade panel data efficiently, mitigating common memory limitations.
-
+* **Big Data Processing:** Employed **`data.table`** to manage and aggregate the large-scale trade panel data efficiently
 * **Classification Bridging:** Custom logic was developed in R to bridge the product data (HS codes) with the industrial policy data (ISIC Rev 4 codes) based on the concordance methodology.
 
 * **Deliverable:** Built a live, interactive dashboard using **Shiny/Plotly** to facilitate transparent exploration of the findings.
