@@ -15,11 +15,11 @@ Preview:
 
 We tested the relationship between the **Average Subsidy Count (2018–2023)** and **Export Share Growth** across G20 industrial sectors.
 
-| Metric | Result | Political Science Interpretation | 
-| :--- | :--- | :--- | 
-| **Correlation ($r$)** | $r \approx -0.017$ (2023 Growth) | **Regulatory Disconnect** (Null Relationship) | 
+| Variable Tested | Empirical Outcome | 
+| :--- | :--- |
+| **Subsidy Frequency vs. Export Growth** | $r \approx -0.017$ (Null Correlation) |
 | **Conclusion** | The concentration of state interventions, when measured by *program count*, is **not a statistically reliable factor** for short-term trade distortion. | | 
-| **Strategic Implication** | This null correlation highlights a fundamental **regulatory disconnect** in the global trading system. Trade friction observed at organizations like the **WTO** is likely driven by factors invisible to simple program-counting metrics—such as the **political commitment of capital (financial magnitude)** or non-transparent **local content requirements**. | | 
+| **Strategic Implication** | This null correlation highlights a fundamental **regulatory disconnect** in the global trading system. Trade friction observed at organizations like the **WTO** is likely driven by factors invisible to simple program-counting metrics—such as the **political commitment of capital (financial magnitude)** or non-transparent **local content requirements**. | |
 
 ### Project Methodology and Technical Rigor
 
